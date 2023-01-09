@@ -1,7 +1,3 @@
-# Speech-Synthesis
-
-# Follow Along Link Highlighter
-
 # Speech Detection
 
 # 30 DAY VANILLA JS CODING CHALLENGE
